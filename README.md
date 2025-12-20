@@ -8,10 +8,9 @@ Hola, mi nombre es Agustín Sosa. Soy Programador de Sistemas graduado de la Uni
 ## Contact
 <a href="https://www.instagram.com/agustinsosaa.10/">![Instagram](https://img.shields.io/badge/AgustinSosa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/agustin-sosa-m10/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a><a href="https://agustinsosa10.github.io/agustinsosa-portafolio/">
+</a> <a href="https://agustinsosa10.github.io/agustinsosa-portafolio/">
   <img src="https://img.shields.io/badge/Portafolio-Web-%23000000.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 
 
 -------------------
